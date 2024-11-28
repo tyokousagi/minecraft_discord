@@ -6,5 +6,6 @@ public class Minecraft_discord implements ModInitializer {
 
     @Override
     public void onInitialize() {
+
     }
 }
